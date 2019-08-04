@@ -2,6 +2,8 @@
 
 The architecture was inspired by [U-Net: Convolutional Networks for Biomedical Image Segmentation](http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/).
 
+Forked from https://blog.csdn.net/py_yangh/article/details/83003972 , and I change a lot
+
 ---
 
 ## Overview
